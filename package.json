@@ -1,0 +1,43 @@
+{
+    "name": "awesome-angular-pack",
+    "displayName": "Awesome Angular Pack",
+    "description": "Most useful and stable extensions for angular/typescript development.",
+    "version": "0.0.1",
+    "publisher": "salbert",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "1tontech.angular-material", 
+        "abusaidm.html-snippets", 
+        "Angular.ng-template", 
+        "christian-kohler.path-intellisense", 
+        "donjayamanne.githistory", 
+        "EditorConfig.EditorConfig", 
+        "eg2.tslint", 
+        "eg2.vscode-npm-script", 
+        "esbenp.prettier-vscode", 
+        "fknop.vscode-npm", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "GregorBiswanger.json2ts", 
+        "infinity1207.angular2-switcher", 
+        "joelday.docthis", 
+        "johnpapa.Angular2", 
+        "joshdsommer.vscode-add-angular-native-files", 
+        "MarinhoBrandao.Angular2Tests", 
+        "msjsdiag.debugger-for-chrome", 
+        "mycelo.embrace", 
+        "NG-42.ng-fortytwo-vscode-extension", 
+        "PKief.material-icon-theme", 
+        "rbbit.typescript-hero", 
+        "SimonTest.simontest", 
+        "steoates.autoimport", 
+        "stringham.move-ts", 
+        "traBpUkciP.vscode-npm-scripts", 
+        "yzhang.markdown-all-in-one"
+    ]
+}
