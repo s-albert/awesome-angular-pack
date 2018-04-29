@@ -1,46 +1,48 @@
 {
-    "name": "awesome-angular-pack",
-    "displayName": "Awesome Angular Pack",
-    "description": "Most useful and stable extensions for angular/typescript development.",
-    "version": "1.0.0",
-    "publisher": "salbert",
-    "icon": "icon.png",
-     "engines": {
-        "vscode": "^1.22.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "bugs": {
-        "url": "https://github.com/s-albert/awesome-angular-pack/issues",
-        "email": "app.feedback@live.at"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/s-albert/awesome-angular-pack.git"
-    },
-    "homepage": "https://github.com/s-albert/awesome-angular-pack/blob/master/README.md",
-    "extensionDependencies": [ 
-        "Mikael.angular-beastcode",
-        "Angular.ng-template", 
-        "eg2.tslint", 
-        "SimonTest.simontest", 
-        "christian-kohler.path-intellisense", 
-        "eamodio.gitlens",
-        "EditorConfig.EditorConfig", 
-        "esbenp.prettier-vscode", 
-        "joelday.docthis", 
-        "PKief.material-icon-theme", 
-        "rbbit.typescript-hero", 
-        "msjsdiag.debugger-for-chrome", 
-        "mycelo.embrace",
-        "infinity1207.angular2-switcher", 
-        "formulahendry.auto-close-tag", 
-        "formulahendry.auto-rename-tag", 
-        "GregorBiswanger.json2ts", 
-        "stringham.move-ts", 
-        "traBpUkciP.vscode-npm-scripts", 
-        "eg2.vscode-npm-script", 
-        "steoates.autoimport"
-    ]
+  "name": "awesome-angular-pack",
+  "displayName": "Awesome Angular Pack",
+  "description":
+    "Most useful and stable extensions for angular/typescript development.",
+  "version": "1.1.0",
+  "publisher": "salbert",
+  "keywords": ["angular", "typescript"],
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Extension Packs"],
+  "bugs": {
+    "url": "https://github.com/s-albert/awesome-angular-pack/issues",
+    "email": "app.feedback@live.at"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-albert/awesome-angular-pack.git"
+  },
+  "homepage":
+    "https://github.com/s-albert/awesome-angular-pack/blob/master/README.md",
+  "extensionDependencies": [
+    "Mikael.angular-beastcode",
+    "Angular.ng-template",
+    "eg2.tslint",
+    "SimonTest.simontest",
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "joelday.docthis",
+    "PKief.material-icon-theme",
+    "rbbit.typescript-hero",
+    "msjsdiag.debugger-for-chrome",
+    "mycelo.embrace",
+    "infinity1207.angular2-switcher",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "GregorBiswanger.json2ts",
+    "stringham.move-ts",
+    "traBpUkciP.vscode-npm-scripts",
+    "eg2.vscode-npm-script",
+    "steoates.autoimport",
+    "alexiv.vscode-angular2-files"
+  ]
 }

@@ -8,6 +8,9 @@ This extension provides a rich editing experience for Angular templates, both in
 * [VSCode Angular TypeScript & Html Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 Visual Studio Code TypeScript and Html snippets and code examples for Angular 2,4,5 & 6. All code snippets are based on and follow the [Angular style guide](https://angular.io/docs/ts/latest/guide/style-guide.html).
 
+* [VS Code Angular Files](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files)
+This extension allows quickly scaffold angular 2 file templates in VS Code project.
+
 * [Angular2 Switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
 Easily navigate to typescript(.ts)|template(.html)|style(.scss/.sass/.less/.css) in angular2 project.
 
