@@ -1,7 +1,5 @@
 # Change Log
 All notable changes to the "awesome-angular-pack" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-- Initial release
+## [1.0.0] - 2018-04-29
+- Initial release with 5 Angular, 6 Typescript, 2 HTML, 2 NPM, 3 Code formatting and 3 other dev tool extensions 
