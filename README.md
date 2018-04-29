@@ -1,5 +1,5 @@
 # Awesome Angular Pack
-A coolection of useful and stable angular/typescript extensions
+A colection of useful and stable angular/typescript extensions
 
 ## Angular
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
@@ -34,7 +34,7 @@ Supports moving typescript files and updating relative imports within the worksp
 json2ts is a VSCode Extension which converts a JSON to TypeScript interfaces.
 
 * [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
-"Document This" is a Visual Studio Code extension that automatically generates detailed JSDoc comments for both TypeScript and JavaScript files. To prevent typescript errors set: "docthis.includeTypes": false
+"Document This" automatically generates detailed JSDoc comments for both TypeScript and JavaScript files. To prevent typescript errors set: "docthis.includeTypes": false
 
 ## HTML
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
