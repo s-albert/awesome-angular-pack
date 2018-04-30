@@ -3,8 +3,9 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "salbert",
+  "license": "MIT",
   "keywords": ["angular", "typescript"],
   "icon": "icon.png",
   "engines": {

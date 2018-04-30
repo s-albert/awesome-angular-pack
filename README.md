@@ -37,8 +37,10 @@ Supports moving typescript files and updating relative imports within the worksp
 json2ts is a VSCode Extension which converts a JSON to TypeScript interfaces.
 
 * [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
-"Document This" automatically generates detailed JSDoc comments for both TypeScript and JavaScript files. To prevent typescript errors set: "docthis.includeTypes": false
-
+"Document This" automatically generates detailed JSDoc comments for both TypeScript and JavaScript files. To prevent typescript errors set: 
+```
+"docthis.includeTypes": false
+```
 ## HTML
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
@@ -79,3 +81,5 @@ Debug your JavaScript code in the Chrome browser, or any other target that suppo
 
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 Visual Studio Code plugin that autocompletes filenames.
+
+Tipp: If you do not like vs code telemetry set: "telemetry.enableTelemetry": false,
