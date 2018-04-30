@@ -55,7 +55,14 @@ This extension validates the installed modules against the dependencies defined 
 
 ## Code formatting
 * [Prettier formatter for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
+VS Code package to format your JavaScript / TypeScript / CSS using Prettier. Configure your preferences in a ".prettierrc" file:
+ ```
+{
+    "printWidth": 150,
+    "singleQuote": true,
+    "arrowParens": "always"
+} 
+```
 
 * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 This plugin attempts to override user/workspace settings with settings found in .editorconfig files. No additional or vscode-specific files are required. As with any EditorConfig plugin, if root=true is not specified, EditorConfig will continue to look for an .editorconfig file outside of the project.
