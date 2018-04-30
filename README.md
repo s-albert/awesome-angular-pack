@@ -55,6 +55,9 @@ View and run NPM scripts from the sidebar
 * [Node npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 This extension validates the installed modules against the dependencies defined in the package.json.
 
+* [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+Shows package version information for npm, jspm, bower, dub and dotnet core in the Visual Studio Code editor.
+
 ## Code formatting
 * [Prettier formatter for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 VS Code package to format your JavaScript / TypeScript / CSS using Prettier. Configure your preferences in a ".prettierrc" file:

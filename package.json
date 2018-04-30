@@ -3,7 +3,7 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["angular", "typescript"],
@@ -44,6 +44,7 @@
     "traBpUkciP.vscode-npm-scripts",
     "eg2.vscode-npm-script",
     "steoates.autoimport",
-    "alexiv.vscode-angular2-files"
+    "alexiv.vscode-angular2-files",
+    "pflannery.vscode-versionlens"
   ]
 }
