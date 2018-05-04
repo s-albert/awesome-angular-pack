@@ -36,10 +36,10 @@ Supports moving typescript files and updating relative imports within the worksp
 * [json2ts for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts)
 json2ts is a VSCode Extension which converts a JSON to TypeScript interfaces.
 
-* [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
-"Document This" automatically generates detailed JSDoc comments for both TypeScript and JavaScript files. To prevent typescript errors set: 
+* [Comment TS](https://marketplace.visualstudio.com/items?itemName=salbert.comment-ts)
+"Comment TS" is a Visual Studio Code extension that automatically generates a template for JSDoc comments. It is adapted for TypeScript files. Typescript comes with a lot of language annotations, which should not be dublicated to the comments. If you like comments generated from name semantics: 
 ```
-"docthis.includeTypes": false
+"comment-ts.parseNames": true
 ```
 ## HTML
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
@@ -77,7 +77,10 @@ Surround the selection with parenthesis, brackets, quotes, etc.
 
 ## Dev Tools
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more. If you don't like the gitlens on the current line set:
+```
+"gitlens.currentLine.enabled" = false
+```
 
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.

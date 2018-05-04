@@ -11,3 +11,9 @@ All notable changes to the "awesome-angular-pack" extension pack will be documen
 ## [1.2.0] - 2018-04-30
 ### Added
 - Version lens (alexiv.vscode-angular2-files)
+
+## [1.2.0] - 2018-05-05
+### Added
+- Comment TS (alberts.comment-ts)
+### Removed
+- Document This
