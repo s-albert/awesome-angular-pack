@@ -17,3 +17,9 @@ All notable changes to the "awesome-angular-pack" extension pack will be documen
 - Comment TS (alberts.comment-ts)
 ### Removed
 - Document This
+
+### [1.4.0] - 2018-05-05
+### Added
+- Paste JSON as Code
+### Removed
+- json2ts

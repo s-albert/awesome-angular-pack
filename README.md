@@ -33,8 +33,7 @@ Automatically finds, parses and provides code actions and code completion for al
 * [Move TS README](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
 Supports moving typescript files and updating relative imports within the workspace.
 
-* [json2ts for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts)
-json2ts is a VSCode Extension which converts a JSON to TypeScript interfaces.
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
 * [Comment TS](https://marketplace.visualstudio.com/items?itemName=salbert.comment-ts)
 "Comment TS" is a Visual Studio Code extension that automatically generates a template for JSDoc comments. It is adapted for TypeScript files. Typescript comes with a lot of language annotations, which should not be dublicated to the comments. If you like comments generated from name semantics: 
@@ -88,4 +87,8 @@ Debug your JavaScript code in the Chrome browser, or any other target that suppo
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 Visual Studio Code plugin that autocompletes filenames.
 
-Tipp: If you do not like vs code telemetry set: "telemetry.enableTelemetry": false,
+## Tipp
+If you do not like vs code telemetry set: 
+```
+"telemetry.enableTelemetry": false
+```
