@@ -87,8 +87,10 @@ Debug your JavaScript code in the Chrome browser, or any other target that suppo
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 Visual Studio Code plugin that autocompletes filenames.
 
-## Tipp
-If you do not like vs code telemetry set: 
+## Tipps
+* If you do not like vs code telemetry set: 
 ```
 "telemetry.enableTelemetry": false
 ```
+* [TypeDoc](http://typedoc.org/guides/installation/)
+A documentation generator for TypeScript projects.
