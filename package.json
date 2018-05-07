@@ -3,7 +3,7 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["angular", "typescript"],
@@ -39,7 +39,7 @@
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
     "stringham.move-ts",
-    "traBpUkciP.vscode-npm-scripts",
+    "eg2.vscode-npm-script",
     "steoates.autoimport",
     "alexiv.vscode-angular2-files",
     "pflannery.vscode-versionlens",

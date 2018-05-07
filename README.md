@@ -69,9 +69,6 @@ A colection of useful and stable angular/typescript extensions
 
 ## NPM
 
-* [NPM Scripts](https://marketplace.visualstudio.com/items?itemName=traBpUkciP.vscode-npm-scripts)
-  View and run NPM scripts from the sidebar
-
 * [Node npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
   This extension validates the installed modules against the dependencies defined in the package.json.
 
