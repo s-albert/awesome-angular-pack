@@ -23,3 +23,10 @@ All notable changes to the "awesome-angular-pack" extension pack will be documen
 - Paste JSON as Code
 ### Removed
 - json2ts
+
+### [1.5.0] - 2018-05-07
+### Added
+- Paste JSON as Code
+### Removed
+- eg2.vscode-npm-script (the same feature is out of the box)
+- rbbit.typescript-hero
