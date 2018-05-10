@@ -27,9 +27,6 @@ A colection of useful and stable angular/typescript extensions
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
   Integrates the tslint linter for the TypeScript language into VS Code.
 
-* [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
-  Sort and organize your imports (sort and remove unused). Code outline view of your open TS / TSX document. Add import to the document or add an import that is under the cursor to the document.
-
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
   Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
@@ -100,7 +97,7 @@ A colection of useful and stable angular/typescript extensions
   GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more. If you don't like the gitlens on the current line set:
 
 ```
-"gitlens.currentLine.enabled" = false
+"gitlens.currentLine.enabled": false
 ```
 
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
@@ -109,16 +106,24 @@ A colection of useful and stable angular/typescript extensions
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
   Visual Studio Code plugin that autocompletes filenames.
 
-## Tipps
+## Recommended Tools (not included)
+
+* [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+  Display import/require package size in the editor
+
+* [Compodoc](https://compodoc.github.io/website/)
+  Generate your Angular project documentation in seconds.
+
+* [TypeDoc](http://typedoc.org/guides/installation/)
+  A documentation generator for TypeScript projects.
+
+## Settings Tipps
 
 * If you do not like vs code telemetry set:
 
 ```
 "telemetry.enableTelemetry": false
 ```
-
-* [TypeDoc](http://typedoc.org/guides/installation/)
-  A documentation generator for TypeScript projects.
 
 * All NPM scripts to start in the explorer view:
 
@@ -134,4 +139,22 @@ A colection of useful and stable angular/typescript extensions
         "source.organizeImports": true
     }
 }
+```
+
+* If you do not need 'open editors' and like to use the space for your project files:
+
+```
+"explorer.openEditors.visible": 0
+```
+
+* Auto save on leaving the editor:
+
+```
+  "files.autoSave": "onFocusChange"
+```
+
+* Enhanced minimap performance by disabling render characters in minimap:
+
+```
+"editor.minimap.renderCharacters": false
 ```
