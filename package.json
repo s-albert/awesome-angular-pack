@@ -3,10 +3,10 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "publisher": "salbert",
   "license": "MIT",
-  "keywords": ["angular", "typescript"],
+  "keywords": ["angular", "typescript", "ts", "pack"],
   "icon": "icon.png",
   "scripts": { "publish": "vsce publish" },
   "engines": {
@@ -45,6 +45,7 @@
     "alexiv.vscode-angular2-files",
     "pflannery.vscode-versionlens",
     "quicktype.quicktype",
-    "patrys.vscode-code-outline"
+    "patrys.vscode-code-outline",
+    "Gruntfuggly.todo-tree"
   ]
 }

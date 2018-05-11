@@ -30,3 +30,7 @@ All notable changes to the "awesome-angular-pack" extension pack will be documen
 ### Removed
 - eg2.vscode-npm-script (the same feature is out of the box)
 - rbbit.typescript-hero
+
+## [1.6.0] - 2018-05-11
+### added
+    "Gruntfuggly.todo-tree"

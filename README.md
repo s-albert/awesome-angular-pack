@@ -1,6 +1,6 @@
 # Awesome Angular Pack
 
-A colection of useful and stable angular/typescript extensions
+A collection of useful, stable and best rated angular/typescript extensions, which build a productive IDE. If you are also a dotnetcore developer check out the [Awesome Dotnetcore Pack](https://marketplace.visualstudio.com/items?itemName=salbert.awesome-dotnetcore-pack), which reuses packages that offer support for both environments.
 
 ## Angular
 
@@ -37,6 +37,9 @@ A colection of useful and stable angular/typescript extensions
 
 * [Code outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline)
   Displays a code outline tree in the explorer pane.
+
+* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+  Show TODO, FIXME, etc. comment tags in a tree view
 
 * [Comment TS](https://marketplace.visualstudio.com/items?itemName=salbert.comment-ts)
   "Comment TS" is a Visual Studio Code extension that automatically generates a template for JSDoc comments. It is adapted for TypeScript files. Typescript comes with a lot of language annotations, which should not be dublicated to the comments. If you like comments generated from name semantics:
@@ -150,7 +153,7 @@ A colection of useful and stable angular/typescript extensions
 * Auto save on leaving the editor:
 
 ```
-  "files.autoSave": "onFocusChange"
+"files.autoSave": "onFocusChange"
 ```
 
 * Enhanced minimap performance by disabling render characters in minimap:
