@@ -27,9 +27,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
   Integrates the tslint linter for the TypeScript language into VS Code.
 
-* [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-  Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
-
 * [Move TS README](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
   Supports moving typescript files and updating relative imports within the workspace.
 
@@ -160,4 +157,15 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 ```
 "editor.minimap.renderCharacters": false
+```
+
+* Makes the corresponding js and source map files invisible:
+
+```
+"files.exclude": {
+    "**/*.js": {
+        "when": "$(basename).ts"
+    },
+    "**/*.js.map": true
+}
 ```
