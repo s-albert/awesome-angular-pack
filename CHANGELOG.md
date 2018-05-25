@@ -38,3 +38,7 @@ All notable changes to the "awesome-angular-pack" extension pack will be documen
 ## [1.7.0] - 2018-05-23
 ### removed
     Auto import is no longer needed, as this feature is provided by vs code
+    
+## [1.8.0] - 2018-05-25
+### added
+    Copy Text extension

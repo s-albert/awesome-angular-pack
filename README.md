@@ -106,6 +106,9 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
   Visual Studio Code plugin that autocompletes filenames.
 
+* [Copy text](https://marketplace.visualstudio.com/items?itemName=salbert.copy-text)
+  Offers more copy options: Copies text without syntax highlighting, optionally adds metainfo like document name and date.
+
 ## Recommended Tools (not included)
 
 * [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
