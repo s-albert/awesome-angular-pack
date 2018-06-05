@@ -3,7 +3,7 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["angular", "typescript", "ts", "pack"],

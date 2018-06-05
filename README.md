@@ -39,10 +39,10 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
   Show TODO, FIXME, etc. comment tags in a tree view
 
 * [Comment TS](https://marketplace.visualstudio.com/items?itemName=salbert.comment-ts)
-  "Comment TS" is a Visual Studio Code extension that automatically generates a template for JSDoc comments. It is adapted for TypeScript files. Typescript comes with a lot of language annotations, which should not be dublicated to the comments. If you like comments generated from name semantics:
+  "Comment TS" generates a template for JSDoc comments. It is adapted for TypeScript files. Typescript comes with a lot of language annotations, which should not be duplicated in the comments. Most likely this would lead to inconsistencies. If you like a todo in your generated comments:
 
 ```
-"comment-ts.parseNames": true
+"comment-ts.todoComments": true,
 ```
 
 ## HTML
