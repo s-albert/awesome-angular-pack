@@ -42,3 +42,11 @@ All notable changes to the "awesome-angular-pack" extension pack will be documen
 ## [1.8.0] - 2018-05-25
 ### added
     Copy Text extension
+
+## [1.9.0] - 2018-06-24
+### removed
+    patrys.vscode-code-outline removed. Ouline is now supported by VS Code with more options.
+
+## [1.10.0] - 2018-05-26
+### added
+    Zignd.html-css-class-completion

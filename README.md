@@ -32,9 +32,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
-* [Code outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline)
-  Displays a code outline tree in the explorer pane.
-
 * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
   Show TODO, FIXME, etc. comment tags in a tree view
 
@@ -47,6 +44,9 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 ## HTML
 
+* [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+  CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
+  
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
   Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
   If you like to exclude typescript (collides with explicit type conversions):

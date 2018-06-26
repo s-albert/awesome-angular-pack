@@ -3,7 +3,7 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "1.8.1",
+  "version": "1.10.0",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["angular", "typescript", "ts", "pack"],
@@ -44,8 +44,8 @@
     "alexiv.vscode-angular2-files",
     "pflannery.vscode-versionlens",
     "quicktype.quicktype",
-    "patrys.vscode-code-outline",
     "Gruntfuggly.todo-tree",
-    "salbert.copy-text"
+    "salbert.copy-text",
+    "Zignd.html-css-class-completion"
   ]
 }
