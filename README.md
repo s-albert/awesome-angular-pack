@@ -10,8 +10,8 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 * [VSCode Angular TypeScript & Html Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
   Visual Studio Code TypeScript and Html snippets and code examples for Angular 2,4,5 & 6. All code snippets are based on and follow the [Angular style guide](https://angular.io/docs/ts/latest/guide/style-guide.html).
 
-* [VS Code Angular Files](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files)
-  This extension allows quickly scaffold angular 2 file templates in VS Code project.
+* [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics)
+  Angular schematics (CLI commands) from files Explorer or Command Palette.
 
 * [Angular2 Switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
   Easily navigate to typescript(.ts)|template(.html)|style(.scss/.sass/.less/.css) in angular2 project.
@@ -87,9 +87,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   This plugin attempts to override user/workspace settings with settings found in .editorconfig files. No additional or vscode-specific files are required. As with any EditorConfig plugin, if root=true is not specified, EditorConfig will continue to look for an .editorconfig file outside of the project.
-
-* [EMBRACE extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=mycelo.embrace[])
-  Surround the selection with parenthesis, brackets, quotes, etc.
 
 ## Dev Tools
 
