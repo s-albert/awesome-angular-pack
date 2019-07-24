@@ -16,9 +16,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Angular Support](https://marketplace.visualstudio.com/items?itemName=vismalietuva.vscode-angular-support)
   Very lightweight language support for angular definitions.
 
-- [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest)
-  An Angular test generator. It analyzes your code and creates the necessary stubs, configures the TestBed, and it even generates tests for you.
-
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code. It include seperate icon for example Angular-Services, Angular-Components, Angular-Directives,....
 
@@ -35,6 +32,9 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
   Show TODO, FIXME, etc. comment tags in a tree view
 
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+  This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
+
 - [Comment TS](https://marketplace.visualstudio.com/items?itemName=salbert.comment-ts)
   "Comment TS" generates a template for JSDoc comments. It is adapted for TypeScript files. Typescript comes with a lot of language annotations, which should not be duplicated in the comments. Most likely this would lead to inconsistencies. If you like a todo in your generated comments:
 
@@ -46,20 +46,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
   CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
-
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-  Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
-  If you like to exclude typescript (collides with explicit type conversions):
-
-```
-    "auto-close-tag.activationOnLanguage": [
-        "xml",
-        "php",
-        "markdown",
-        "html",
-        "HTML (Eex)"
-    ]
-```
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
   Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
@@ -111,8 +97,9 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
   Display import/require package size in the editor
 
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-    This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+  With this extension, you will be able to categorise your annotations into: Alerts, Queries, TODOs, Highlights,...
+  Commented out code can also be styled to make it clear the code shouldn't be there.
 
 - [Compodoc](https://compodoc.github.io/website/)
   Generate your Angular project documentation in seconds.

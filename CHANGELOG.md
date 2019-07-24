@@ -2,6 +2,17 @@
 
 All notable changes to the "awesome-angular-pack" extension pack will be documented in this file.
 
+## [2.0.0] - 2019-07-24
+
+### removed
+
+SimonTest, because it is no lnger free
+Auto Close Tag - VS Code supports this feature (html.autoClosingTags)
+
+### added
+
+Bracket Pair Colorizer
+
 ## [1.12.0] - 2018-09-12
 
 ### removed
