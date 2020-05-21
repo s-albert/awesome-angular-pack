@@ -21,8 +21,8 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 ## Typescript
 
-- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-  Integrates the tslint linter for the TypeScript language into VS Code.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  Integrates ESLint into VS Code. TSLint is deprecated. [Migration](https://code.visualstudio.com/api/advanced-topics/tslint-eslint-migration) 
 
 - [Move TS README](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
   Supports moving typescript files and updating relative imports within the workspace.
@@ -32,7 +32,7 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
   Show TODO, FIXME, etc. comment tags in a tree view
 
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
   This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 
 - [Comment TS](https://marketplace.visualstudio.com/items?itemName=salbert.comment-ts)

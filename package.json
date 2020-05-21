@@ -3,7 +3,7 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["angular", "typescript", "ts", "pack"],
@@ -25,7 +25,7 @@
     "https://github.com/s-albert/awesome-angular-pack/blob/master/README.md",
   "extensionDependencies": [
     "Mikael.angular-beastcode",
-    "eg2.tslint",
+    "dbaeumer.vscode-eslint",
     "christian-kohler.path-intellisense",
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",

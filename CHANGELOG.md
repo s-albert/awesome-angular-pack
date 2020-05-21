@@ -2,10 +2,17 @@
 
 All notable changes to the "awesome-angular-pack" extension pack will be documented in this file.
 
-## [2.0.0] - 2020-05-15
+## [3.0.0] - 2020-05-21
 
+### removed
 
-## [2.0.0] - 2019-07-24
+TSLint (TSLint is deprecated)
+
+### added
+
+ESLint (ESLint replaces TSLint, see readme)
+
+## [2.1.0] - 2020-05-15
 
 ### removed
 
