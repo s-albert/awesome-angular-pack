@@ -50,6 +50,9 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
   Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
+- [Arrr](https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr)
+  A tool to refactor components from HTML templates.
+
 ## NPM
 
 - [Node npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
