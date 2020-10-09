@@ -92,6 +92,9 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Copy text](https://marketplace.visualstudio.com/items?itemName=salbert.copy-text)
   Offers more copy options: Copies text without syntax highlighting, optionally adds metainfo like document name and date.
 
+- [Online help](https://marketplace.visualstudio.com/items?itemName=salbert.online-help)
+  Offers context sensitive online help.
+
 ## Recommended Tools (not included)
 
 - [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)

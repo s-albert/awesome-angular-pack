@@ -2,6 +2,12 @@
 
 All notable changes to the "awesome-angular-pack" extension pack will be documented in this file.
 
+## [3.1.0] - 2020-10-09
+
+### added
+
+Online help
+
 ## [3.0.0] - 2020-05-21
 
 ### removed
