@@ -19,10 +19,13 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code. It include seperate icon for example Angular-Services, Angular-Components, Angular-Directives,....
 
+- [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest)
+  It takes care of the most tedious part of testing components and services: mocking dependencies. This extension analyzes your code and creates the necessary stubs, configures the TestBed, and it even generates basic tests.
+
 ## Typescript
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  Integrates ESLint into VS Code. TSLint is deprecated. [Migration](https://code.visualstudio.com/api/advanced-topics/tslint-eslint-migration) 
+  Integrates ESLint into VS Code. TSLint is deprecated. [Migration](https://code.visualstudio.com/api/advanced-topics/tslint-eslint-migration)
 
 - [Move TS README](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
   Supports moving typescript files and updating relative imports within the workspace.
@@ -109,6 +112,9 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 - [TypeDoc](http://typedoc.org/guides/installation/)
   A documentation generator for TypeScript projects.
+
+- [Angular/Karma Test Explorer](https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer&ssr=false#review-details)
+  Run your Angular Tests in the Sidebar of Visual Studio Code
 
 ## Settings Tipps
 

@@ -3,7 +3,7 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["angular", "typescript", "ts", "pack"],
@@ -45,6 +45,7 @@
     "Zignd.html-css-class-completion",
     "vismalietuva.vscode-angular-support",
     "CoenraadS.bracket-pair-colorizer-2",
-    "salbert.online-help"
+    "salbert.online-help",
+    "SimonTest.simontest"
   ]
 }
