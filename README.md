@@ -19,9 +19,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code. It include seperate icon for example Angular-Services, Angular-Components, Angular-Directives,....
 
-- [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest)
-  It takes care of the most tedious part of testing components and services: mocking dependencies. This extension analyzes your code and creates the necessary stubs, configures the TestBed, and it even generates basic tests.
-
 ## Typescript
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
@@ -85,9 +82,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 ```
 "gitlens.currentLine.enabled": false
 ```
-
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-  Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
 
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
   Visual Studio Code plugin that autocompletes filenames.

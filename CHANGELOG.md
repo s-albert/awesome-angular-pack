@@ -1,7 +1,17 @@
 # Change Log
 
 All notable changes to the "awesome-angular-pack" extension pack will be documented in this file.
+## [3.4.0] - 2021-08-06
 
+### removed
+
+Debugger for Chrome (no longer required)
+
+## [3.3.0] - 2021-01-03
+
+### removed
+
+SimonTest (licence required)
 ## [3.2.0] - 2020-10-12
 
 ### added
