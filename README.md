@@ -32,9 +32,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
   Show TODO, FIXME, etc. comment tags in a tree view
 
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-  This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
-
 - [Comment TS](https://marketplace.visualstudio.com/items?itemName=salbert.comment-ts)
   "Comment TS" generates a template for JSDoc comments. It is adapted for TypeScript files. Typescript comes with a lot of language annotations, which should not be duplicated in the comments. Most likely this would lead to inconsistencies. If you like a todo in your generated comments:
 
