@@ -149,6 +149,13 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 "editor.minimap.renderCharacters": false
 ```
 
+- Bracket colorization
+
+```
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active"
+```
+
 - Makes the corresponding js and source map files invisible:
 
 ```
