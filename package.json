@@ -3,7 +3,7 @@
   "displayName": "Awesome Angular Pack",
   "description":
     "Most useful and stable extensions for angular/typescript development.",
-  "version": "3.5.1",
+  "version": "3.6.0",
   "publisher": "salbert",
   "license": "MIT",
   "keywords": ["angular", "typescript", "ts", "pack"],
@@ -35,7 +35,6 @@
     "infinity1207.angular2-switcher",
     "formulahendry.auto-rename-tag",
     "stringham.move-ts",
-    "eg2.vscode-npm-script",
     "cyrilletuzi.angular-schematics",
     "pflannery.vscode-versionlens",
     "quicktype.quicktype",

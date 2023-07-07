@@ -1,5 +1,9 @@
 # Change Log
 
+## [3.6.0] - 2023-07-07
+
+### removed
+eg2.vscode-npm-script (deprecated, no longer required)
 ## [3.5.0] - 2021-12-23
 
 ### removed

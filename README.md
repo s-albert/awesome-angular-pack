@@ -49,9 +49,6 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 ## NPM
 
-- [Node npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-  This extension validates the installed modules against the dependencies defined in the package.json.
-
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
   Shows package version information for npm, jspm, bower, dub and dotnet core in the Visual Studio Code editor.
 
