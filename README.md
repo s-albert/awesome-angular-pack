@@ -4,8 +4,8 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 
 ## Angular
 
-- [VSCode Angular TypeScript & Html Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
-  Visual Studio Code TypeScript and Html snippets and code examples for Angular 2,4,5 & 6. All code snippets are based on and follow the [Angular style guide](https://angular.io/docs/ts/latest/guide/style-guide.html).
+- [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+  This extension for Visual Studio Code adds snippets for Angular for TypeScript and HTML. All code snippets are based on and follow the [Angular style guide](https://angular.io/docs/ts/latest/guide/style-guide.html).
 
 - [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics)
   Angular schematics (CLI commands) from files Explorer or Command Palette.
@@ -101,8 +101,8 @@ A collection of useful, stable and best rated angular/typescript extensions, whi
 - [TypeDoc](http://typedoc.org/guides/installation/)
   A documentation generator for TypeScript projects.
 
-- [Angular/Karma Test Explorer](https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer&ssr=false#review-details)
-  Run your Angular Tests in the Sidebar of Visual Studio Code
+- [Karma Test Explorer (for Angular, Jasmine, and Mocha)](https://marketplace.visualstudio.com/items?itemName=lucono.karma-test-explorer)
+  View and run your Karma or Angular tests in the VS Code Testing side bar
 
 ## Settings Tipps
 
